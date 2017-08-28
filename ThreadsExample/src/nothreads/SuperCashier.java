@@ -2,7 +2,7 @@ package nothreads;
 
 public class SuperCashier {
 
-	String name;
+	private String name;
 
 	public SuperCashier(String name) {
 		this.name = name;
